@@ -1,4 +1,7 @@
 {
+  "Footer": {
+    "__resolveType": "site/sections/Footer.tsx"
+  },
   "Groovy Vibes": {
     "__resolveType": "site/sections/Theme/Theme.tsx",
     "buttonStyle": {
@@ -203,7 +206,7 @@
     "sections": [
       {
         "__resolveType": "site/sections/ItWorks.tsx",
-        "name": "<p>We Hook</p>"
+        "name": "<pre><code>We Hook</code></pre>"
       },
       {
         "__resolveType": "Footer"
@@ -244,8 +247,5 @@
     "theme": {
       "__resolveType": "Urban Chic"
     }
-  },
-  "Footer": {
-    "__resolveType": "site/sections/Footer.tsx"
   }
 }
